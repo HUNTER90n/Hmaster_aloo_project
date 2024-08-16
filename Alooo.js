@@ -234,8 +234,8 @@ document.addEventListener('DOMContentLoaded', () => {
         keyCountGroup.style.display = 'block';
     });
 
-    sourceCode.addEventListener('click', () => {
-        window.open('https://github.com/ShafiqSadat/HamsterKeyGenWeb', '_blank');
+    Telegram.addEventListener('click', () => {
+        window.open('https://t.me/airdropshunter90m', '_blank');
     });
 
     const generateClientId = () => {
